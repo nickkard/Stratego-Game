@@ -161,15 +161,6 @@ The game ends when:
 Project :link: [https://github.com/nickkard/Stratego-Game.git](https://github.com/nickkard/Stratego-Game.git)
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -191,4 +182,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- 
 Based on the tamplate: https://github.com/othneildrew/Best-README-Template
+GitHub Emoji Cheat Sheet : https://www.webpagefx.com/tools/emoji-cheat-sheet
 -->

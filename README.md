@@ -69,16 +69,16 @@ Follow the steps below to run the project:
    ```sh
    git clone https://github.com/nickkard/Stratego-Game.git
    ```
-2. Make sure Java is installed on your pc
-    * Open terminal an run the command ```java -version``` (for Windows) or ```java --version``` (for Linux)
+<!--2. Make sure Java is installed on your pc
+    * Open terminal an run the command ```java -version``` (for Windows) or ```java --version``` (for Linux)-->
    
-3. Import the project in your favorite IDE
+2. Import the project in your favorite IDE
     * For <strong>IntelliJ</strong> : <strong>File :arrow_right:  New :arrow_right: Project From Existing Sources... </strong>
   
-4. Install required packages
+3. Install required packages
     * Most likely <strong>JUnit</strong> which can be done via the IDE
   
-5. Run the project :star:
+4. Run the project :star:
   
 A new window appears presenting the board of the game, just like the image below:
   
